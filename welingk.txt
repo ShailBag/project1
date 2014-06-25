@@ -1,0 +1,19 @@
+67850428
+02261439227
+helpdesk@inedu.in
+
+
+TRANSACTION DONE SUCCESSFULLY.
+
+
+Prospectus No	DPGD/JA13/0625
+Response Code	0
+Response Message	Transaction Successful
+Auth ID	074162
+EPG Txn ID	201311301626751
+Transaction Id	6208
+RRN Code	000023838858
+CV Response Code	Y
+Your Transaction Details is been mailed to your Email id.
+
+helpdesk@einsedu.in
